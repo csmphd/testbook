@@ -2,6 +2,8 @@ project:
   type: book
   output-dir: docs
 
+lang: kr
+
 book:
   title: "testbook"
   author: "Jane Doe"
